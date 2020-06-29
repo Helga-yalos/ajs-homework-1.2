@@ -1,0 +1,24 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "\"Browser based game\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server src",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src -d dist" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Helga-yalos/ajs-homework-1.2.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Helga-yalos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Helga-yalos/ajs-homework-1.2/issues"
+  },
+  "homepage": "https://github.com/Helga-yalos/ajs-homework-1.2#readme"
+}
